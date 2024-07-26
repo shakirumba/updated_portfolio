@@ -61,7 +61,6 @@ export default function Header() {
                 </Link>
               </li>
             </ul>
-            <PiListBold className="self-center" size={38} color="white" />
           </div>
         </div>
       </header>
