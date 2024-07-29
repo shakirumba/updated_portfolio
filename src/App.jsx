@@ -20,7 +20,7 @@ import { SiAmazons3, SiSocketdotio } from "react-icons/si";
 import { IoLogoJavascript } from "react-icons/io";
 import { FiAtSign } from "react-icons/fi";
 import { HiOutlineLocationMarker, HiOutlineMail } from "react-icons/hi";
-import Shaki from "./assets/shaki.jpg";
+import Shaki from "./assets/Ralph_Sison.jpg";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -112,7 +112,7 @@ function App() {
               <img
                 src={Shaki}
                 alt="Profile Picture"
-                className="w-[400px] rounded-full border-8 border-gray-300 "
+                className="w-[400px] h-[400px] rounded-full border-8 border-gray-300 object-cover"
               />
             </div>
           </div>
