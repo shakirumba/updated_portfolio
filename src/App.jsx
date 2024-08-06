@@ -112,7 +112,7 @@ function App() {
               <img
                 src={Shaki}
                 alt="Profile Picture"
-                className="w-[400px] h-[400px] rounded-full border-8 border-gray-300 object-cover"
+                className="w-[250px] h-[250px] rounded-full border-8 border-gray-300 object-cover "
               />
             </div>
           </div>
